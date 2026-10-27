@@ -1,0 +1,1 @@
+var e={season:`2026`,week:8,season_type:`regular`};export{e as default};
